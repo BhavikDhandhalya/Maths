@@ -1,5 +1,6 @@
 # Maths
 Important Links to read the High School Math
 
-### Algebra & Functions
-1. [Basic Info](http://www.lofoya.com/Aptitude-Questions-and-Answers/Algebra/intro)
+### Data Science/Machine Learning ToDo List
+1. [Harvard Course](https://www.edx.org/course/data-science-probability-harvardx-ph125-3x)
+2. [Stanford Machine Learning](https://www.coursera.org/learn/machine-learning)
